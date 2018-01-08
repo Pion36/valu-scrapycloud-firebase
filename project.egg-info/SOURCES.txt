@@ -1,0 +1,15 @@
+MANIFEST.in
+setup.py
+myproject/__init__.py
+myproject/credential.json
+myproject/items.py
+myproject/middlewares.py
+myproject/pipelines.py
+myproject/settings.py
+myproject/spiders/__init__.py
+myproject/spiders/valu_crawl.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
